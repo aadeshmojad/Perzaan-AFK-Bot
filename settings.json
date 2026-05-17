@@ -7,14 +7,14 @@
   },
   "server": {
     "ip": "billubadmoshSMP.aternos.me",
-    "port": 16589,
+    "port": 26462,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
-    "x": -1056.33,
-    "y": 106.00,
-    "z": 323.52
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
